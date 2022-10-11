@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sameer Phalak](https://github.com/sameerphalak)
+- Place: India
+- Bio: Web developer
+- Github: [Sameer Phalak](https://github.com/sameerphalak)
